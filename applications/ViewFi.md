@@ -168,9 +168,9 @@ Please provide a breakdown of your budget by milestone:
 
 | Milestone | Deliverables | Cost (USD) | Estimated Completion |
 | --- | --- | --- | --- |
-| 1 | Initial development of Polkadot blockchain integration into the ViewFi platform, including native wallet connectivity (Polkadot.js, Talisman, SubWallet), transaction handling, and blockchain data indexing for campaign tracking and user engagement metrics. | $3,333 | 1 month |
-| 2 | Deploy comprehensive NFT minting and airdrop video campaign solutions on Polkadot testnet, including smart contracts for automated NFT distribution based on video engagement, campaign management dashboard for brands, and user reward claiming interface with full testnet functionality validation | $3,333 | 2 weeks |    
-| 3 | Launch of a video campaign on Polkadot mainnet, followed by the announcement and execution of a community-led video campaign specifically designed to promote Polkadot videos and/or ecosystem projects. | $3,333 | 2 weeks |
+| 1 | Initial development of Polkadot blockchain integration into the ViewFi platform, including native wallet connectivity (Polkadot.js, Talisman, SubWallet), transaction handling, and blockchain data indexing for campaign tracking and user engagement metrics. | $5,000 | 1 month |
+| 2 | Deploy comprehensive NFT minting and airdrop video campaign solutions on Polkadot testnet, including smart contracts for automated NFT distribution based on video engagement, campaign management dashboard for brands, and user reward claiming interface with full testnet functionality validation | $2,500| 2 weeks |    
+| 3 | Launch of a video campaign on Polkadot mainnet, followed by the announcement and execution of a community-led video campaign specifically designed to promote Polkadot videos and/or ecosystem projects. | $2,500 | 2 weeks |
 | **Total** | | **$10,000** | **2 months** |
 
 Make sure you show clearly what the funding is going towards (e.g. 30 hours of a full time employee at $X / hour).
