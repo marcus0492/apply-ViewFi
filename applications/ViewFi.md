@@ -86,7 +86,6 @@ Jon Hook (Advisor)
 Cristian Romero (Lead Developer)
 Dhiraj Kadam (Full Stack Developer)
 Moksedul Hoque (Full Stack Developer)
-Dima Shumyk (Backend Developer)
 Taimur Abid (UX/UI Designer)
 
 #### LinkedIn Profiles (if available)
@@ -96,7 +95,6 @@ https://www.linkedin.com/in/jonhook/
 https://www.linkedin.com/in/cristian-mgb/
 https://www.linkedin.com/in/codedem/
 https://www.linkedin.com/in/moksedul-hoque-uzzol-278aa0164/
-https://www.linkedin.com/in/shumyk/
 https://www.linkedin.com/in/taimur-abid-6b279a259/
 
 ### Team Code Repos
@@ -124,7 +122,6 @@ games publishing and ad tech companies. CEO PlayEmber
 technology, and e-commerce.
 - Dhiraj Kadam - Tech Enthusiast with a Service Industry Background | Full Stack Developer | Crypto Advocate.
 - Moksedul Hoque - Senior software engineer with 6+ years of experience in React.js, Node.js, and TypeScript
-- Dima Shumyk - Experienced Back End Dev with 6+ years of experience
 - Taimur Abid - Lead UX/UI Designer with 5+ years of experience
 
 ## 📊 Development Status
