@@ -180,15 +180,18 @@ Make sure you show clearly what the funding is going towards (e.g. 30 hours of a
 Please include:
 
 - How you intend to continue development after the Fast-Grant
-Scale to support additional media formats across mobile and desktop environments.
-Develop ad solutions focused on gaming.
-Implement advanced AI-driven targeting.
+
+- Scale to support additional media formats across mobile and desktop environments.
+- Develop ad solutions focused on gaming.
+- Implement advanced AI-driven targeting.
 
 - Any plans for seeking additional funding (other grants, VC funding, etc.)
-Apply for additional grants to support further development.
+
+- Apply for additional grants to support further development.
 
 - Your vision for the project's growth and impact in the Polkadot ecosystem
-Our goal is to onboard 1 million users to web3 through ViewFi, becoming the dominant video advertising solution in the Polkadot ecosystem and beyond.
+
+- Our goal is to onboard 1 million users to web3 through ViewFi, becoming the dominant video advertising solution in the Polkadot ecosystem and beyond.
 
 ## ℹ️ Additional Information
 
