@@ -10,15 +10,16 @@ The platform will utilize Polkadot's parachain capabilities to ensure efficient 
 ### 🔍 Project Details
 
 **Tech Stack**
-Java, Spring, Postgres, React, Solidity, Forge, PReact and TypeScript.
-We use Infura for indexing and integrated into Wallet Connect SDK plus MetaKeep for wallet generation.
+
+Java, Spring, Postgres, React, Solidity, Forge, PReact and TypeScript. We use Infura for indexing and integrated into Wallet Connect SDK plus MetaKeep for wallet generation.
 
 **Core Documentation**
-Video player widget with integrated reward mechanisms
-Smart contracts for token dispensing and NFT rewards
-Wallet infrastructure for seamless user onboarding
-Analytics dashboard for campaign performance tracking
-API for brand integration and campaign management
+
+- Video player widget with integrated reward mechanisms
+- Smart contracts for token dispensing and NFT rewards
+- Wallet infrastructure for seamless user onboarding
+- Analytics dashboard for campaign performance tracking
+- API for brand integration and campaign management
 
 Comprehensive documentation available at: https://docs.viewfi.io/
 
@@ -34,6 +35,7 @@ Comprehensive documentation available at: https://docs.viewfi.io/
 ViewDrop fits into Polkadot's ecosystem as a DeFi application that bridges traditional marketing with web3 rewards, driving mainstream user adoption through familiar video content experiences enhanced with blockchain-based incentives.
 
 **Target Audience**
+
 Primary: Brands and marketers seeking innovative, ROI-driven advertising solutions
 Secondary: Web3 protocols wanting to grow their user base through rewarded video campaigns
 Tertiary: End users who want to be rewarded for their attention and engagement
@@ -41,6 +43,7 @@ Tertiary: End users who want to be rewarded for their attention and engagement
 ViewFi addresses the critical need for privacy-compliant, engaging marketing solutions in the post-cookie era while simultaneously onboarding mainstream users to web3 through value exchange mechanisms.
 
 **Competitors**
+
 No direct competitors currently offer the same solution on any blockchain. Our unique approach combines video marketing, web3 rewards, and enterprise-grade partnerships, positioning us as the first-mover in this emerging category.
 
 ## 👥 Team
@@ -142,6 +145,7 @@ Make sure you show clearly what the funding is going towards (e.g. 30 hours of a
 Our goal is to onboard 1 million users to web3 through ViewFi, becoming the dominant video advertising solution in the Gear ecosystem.
 
 ## ℹ️ Additional Information
+
 ViewFi's integration with Gear represents a unique opportunity to onboard enterprise clients and mainstream users from launch, leveraging proven performance metrics and existing business relationships rather than building from scratch.
 
 Currently with 600+ customers onboarded
