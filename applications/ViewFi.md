@@ -9,11 +9,11 @@ The platform will utilize Polkadot's parachain capabilities to ensure efficient 
 
 ### 🔍 Project Details
 
-# Tech Stack
+**Tech Stack**
 Java, Spring, Postgres, React, Solidity, Forge, PReact and TypeScript.
 We use Infura for indexing and integrated into Wallet Connect SDK plus MetaKeep for wallet generation.
 
-# Core Documentation
+**Core Documentation**
 Video player widget with integrated reward mechanisms
 Smart contracts for token dispensing and NFT rewards
 Wallet infrastructure for seamless user onboarding
@@ -33,14 +33,14 @@ Comprehensive documentation available at: https://docs.viewfi.io/
 
 ViewDrop fits into Polkadot's ecosystem as a DeFi application that bridges traditional marketing with web3 rewards, driving mainstream user adoption through familiar video content experiences enhanced with blockchain-based incentives.
 
-# Target Audience
+**Target Audience**
 Primary: Brands and marketers seeking innovative, ROI-driven advertising solutions
 Secondary: Web3 protocols wanting to grow their user base through rewarded video campaigns
 Tertiary: End users who want to be rewarded for their attention and engagement
 
 ViewFi addresses the critical need for privacy-compliant, engaging marketing solutions in the post-cookie era while simultaneously onboarding mainstream users to web3 through value exchange mechanisms.
 
-# Competitors
+**Competitors**
 No direct competitors currently offer the same solution on any blockchain. Our unique approach combines video marketing, web3 rewards, and enterprise-grade partnerships, positioning us as the first-mover in this emerging category.
 
 ## 👥 Team
