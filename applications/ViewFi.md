@@ -25,7 +25,7 @@ Comprehensive documentation available at: https://docs.viewfi.io/
 
 **Product Deck:** https://drive.google.com/drive/u/0/folders/1i1DazxM9ASsGpHKg39sfJdSsDU3C7dXL
 
-# Project Limitation
+**Project Limitation**
 - Will not provide traditional advertising network services
 - Will not store sensitive user data beyond necessary campaign metrics
 - Will not integrate onchain solutions beyond NFT creation (and distriution) and token airdrop.
